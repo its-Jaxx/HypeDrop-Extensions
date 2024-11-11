@@ -8,7 +8,7 @@
 <br>
 :warning:
 <br>
-* **This is for educational purpose only**
+• **This is for educational purpose only**
 
 <details>
 <summary>Contact me</summary>
