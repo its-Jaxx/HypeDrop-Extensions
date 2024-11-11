@@ -27,7 +27,7 @@
         loserUsernameColor: "#FF0000",
         enableLoserUsernameColor: true,
         showAlert: true,
-        alertFormat: "{color:rgba(133, 95, 22, 1)}{currentTime} {color:rgba(56, 56, 56, 0.5)}| {color:#00F7FF}{targetUsername} {color:rgba(56, 56, 56, 0.7)}+{color:#00FF00}$1.00{color:default}"
+        alertFormat: "{color:rgba(133, 95, 22, 1)}{currentTime} {color:rgba(56, 56, 56, 0.5)| {color:#00F7FF}{targetUsername} {color:rgba(56, 56, 56, 0.7)}+{color:#00FF00}$1.00{color:default}"
     };
 
     const savedSettings = localStorage.getItem('giveawayHighlighterSettings');
