@@ -8,6 +8,17 @@
 * **This is for educational purpose only**
 
 <details>
+<summary>Downloads</summary>
+
+* [Cart Helper](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Helper/Cart-Helper.user.js)
+* [Case Calculator](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Case-Calculator/Case-Calculator.user.js)
+* [Giveaway Alert](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Giveaway-Alert/Giveaway-Alert.user.js)
+* [Risk Indicator](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Risk-Indicator/Risk-Indicator.user.js)
+* [XP-Calculator](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/XP-Calculator/XP-Calculator.user.js)
+
+</details>
+
+<details>
 <summary>Contact me</summary>
 
 <details>
