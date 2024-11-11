@@ -6,10 +6,10 @@
 // @match        https://www.hypedrop.com/*
 // @author       HD Code: jaxx
 // @supportURL   https://discord.com/users/922843169480122388/
-// @icon         https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Calculator/Cart-Calculator.png
+// @icon         https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Helper/Cart-Helper.png
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Calculator/Cart-Calculator.user.js
-// @updateURL    https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Calculator/Cart-Calculator.user.js
+// @downloadURL  https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Helper/Cart-Helper.user.js
+// @updateURL    https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Cart-Helper/Cart-Helper.user.js
 // @grant        none
 // ==/UserScript==
 /* global $ */
