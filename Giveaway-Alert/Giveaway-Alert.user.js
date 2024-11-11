@@ -7,10 +7,9 @@
 // @supportURL   https://discord.com/users/922843169480122388/
 // @match        https://www.hypedrop.com/*
 // @icon         https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Giveaway-Alert/Giveaway-Alert.png
-// @grant        none
+// @grant        GM_addStyle
 // @downloadURL  https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Giveaway-Alert/Giveaway-Alert.user.js
 // @updateURL    https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Giveaway-Alert/Giveaway-Alert.user.js
-// @grant        GM_addStyle
 // ==/UserScript==
 /* global $ */
 
