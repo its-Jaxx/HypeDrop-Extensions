@@ -1,0 +1,25 @@
+# • XP Calculator
+
+:warning: **Note:** I do not use nor encourage the usage of this script. Using it may result in punishment if caught! **This is for educational purpose only**
+
+<br>
+
+* XP Calculator calculates the XP needed for next and/or requested level and displays daily earnings based on level
+
+<details>
+<summary>Contact me</summary>
+
+<details>
+<summary>Removal</summary>
+
+* For removal, contact me on Discord: [aftxrlifx](https://discord.com/users/922843169480122388/)
+</details>
+
+<details>
+<summary>Modification</summary>
+
+* Want to contribute to any of these projects? Contact me on Discord: [aftxrlifx](https://discord.com/users/922843169480122388/)
+
+</details>
+
+</details>
