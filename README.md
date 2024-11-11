@@ -5,7 +5,7 @@
 :warning: **Note:**
 * I created these scripts for no reason other than them being fun projects.
 * I do not use any of these and I do not encourage usage of any of them. Use them at your own discretion!
-• **This is for educational purpose only**
+* **This is for educational purpose only**
 
 <details>
 <summary>Contact me</summary>
