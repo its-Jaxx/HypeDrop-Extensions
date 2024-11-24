@@ -15,6 +15,7 @@
 * [Giveaway Alert](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Giveaway-Alert/Giveaway-Alert.user.js)
 * [Risk Indicator](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Risk-Indicator/Risk-Indicator.user.js)
 * [XP-Calculator](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/XP-Calculator/XP-Calculator.user.js)
+* [Anti-Idle](https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Extensions/refs/heads/main/Anti-Idle/Anti-Idle.user.js)
 
 </details>
 
