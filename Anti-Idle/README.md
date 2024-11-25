@@ -1,10 +1,10 @@
-# • Anti Idle
+# • Phantom Heartbeat
 
 :warning: **Note:** I do not use nor encourage the usage of this script. Using it may result in punishment if caught! **This is for educational purpose only**
 
 <br>
 
-* Anti Idle simulates a phantom click that keeps the chat from stopping when idle for too long.
+* Phantom Heartbeat simulates a phantom click that keeps the chat from stopping when idle for too long.
 
 <details>
 <summary>Contact me</summary>
