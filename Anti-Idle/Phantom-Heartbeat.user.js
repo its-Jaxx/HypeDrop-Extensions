@@ -27,14 +27,12 @@
         }
 
         phantomElement.click();
-        console.log('Phantom heartbeat at:', new Date().toLocaleTimeString());
 
         scheduleNextInteraction();
     }
 
     function scheduleNextInteraction() {
-        const randomInterval = Math.floor(Math.random() * (20 - 5 + 1) + 5) * 60000;
-        console.log('Next phantom heartbeat in:', randomInterval / 60000, 'minutes');
+        const randomInterval = Math.floor(Math.random() * (16) + 5) * 60000;
         setTimeout(simulateInteraction, randomInterval);
     }
 
